@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324970819488",
+    "project_id": "carnotes-3caba",
+    "storage_bucket": "carnotes-3caba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324970819488:android:5b6e89aac3e0a36d80bec5",
+        "android_client_info": {
+          "package_name": "com.example.car_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFrtobwPYLU8aluzKTDuXK5XBUowjwrXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
