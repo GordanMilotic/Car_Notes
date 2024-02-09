@@ -1,6 +1,6 @@
 # car_notes
 
-A new Flutter project.
+A Flutter app for tracking gas prices, refills as well price for parts and services. This app was made to replace traditional note writing.
 
 ## Getting Started
 
