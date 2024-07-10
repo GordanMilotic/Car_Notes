@@ -2,7 +2,6 @@ import 'package:car_notes/pages/parts_and_services.dart';
 import 'package:car_notes/pages/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:car_notes/pages/refill.dart';
-import 'package:car_notes/main.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);

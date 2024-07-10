@@ -87,7 +87,7 @@ class _PartsAndServiceState extends State<PartsAndService> {
           ),
           ElevatedButton(
             style: ElevatedButton.styleFrom(
-              primary: Colors.red[700],
+              backgroundColor: Colors.red[700],
             ),
             child: const Text("Add a service"),
             onPressed: () {
@@ -131,7 +131,7 @@ class _PartsAndServiceState extends State<PartsAndService> {
                     actions: [
                       ElevatedButton(
                         style: ElevatedButton.styleFrom(
-                          primary: Colors.red[700],
+                          backgroundColor: Colors.red[700],
                         ),
                         child: const Text("Submit"),
                         onPressed: () {
@@ -215,7 +215,7 @@ class _PartsAndServiceState extends State<PartsAndService> {
                 _deleteServiceFromFirestore(service);
               },
               style: ElevatedButton.styleFrom(
-                primary: Colors.red[700],
+                backgroundColor: Colors.red[700],
               ),
               child: const Text("Delete"),
             ),
